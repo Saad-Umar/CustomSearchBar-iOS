@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'CustomSearchBar-iOS'
-  spec.version      = '1.0.0'
+  spec.version      = '1.0.1'
   spec.authors      = { 
     'Saad Umar' => 'saad.umar93@gmail.com',
   }
